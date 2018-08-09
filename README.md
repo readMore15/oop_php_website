@@ -1,1 +1,1 @@
-# oop_php_website
+# oop_php_complete_website is a project with complete implementation of Object Oriented Programming in PHP

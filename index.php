@@ -1,8 +1,11 @@
 <?php
 
+session_start();
+
 // include config
 require('config.php');
 
+require('classes/Messages.php');
 require('classes/Bootstrap.php');
 require('classes/Controller.php');
 require('classes/Model.php');

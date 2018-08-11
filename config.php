@@ -8,4 +8,4 @@ define('DB_PASS', '');
 define('DB_NAME', 'shareboard');
 
 define('ROOT_PATH', '/');
-define('ROOT_URL', 'http://shareboard.com');
+define('ROOT_URL', 'http://oop-complete-website.com/');
